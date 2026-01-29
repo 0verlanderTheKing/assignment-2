@@ -1,0 +1,11 @@
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\obj\Debug\assignment two.csproj.AssemblyReference.cache
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\obj\Debug\assignment_two.Form1.resources
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\obj\Debug\assignment_two.Properties.Resources.resources
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\obj\Debug\assignment two.csproj.GenerateResource.cache
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\obj\Debug\assignment two.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\bin\Debug\assignment two.exe.config
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\bin\Debug\assignment two.exe
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\bin\Debug\assignment two.pdb
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\obj\Debug\assignment two.exe
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\obj\Debug\assignment two.pdb
+C:\Users\25jwh\Desktop\Visual Studio\assignment two\assignment two\obj\Debug\assignment two.exe.config
